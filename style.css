@@ -702,6 +702,11 @@ p {
 .social {
     max-width: 400px;
     margin: auto;
+    color: #FAD5C3!important;
+}
+
+.social .fa {
+    margin-right: 3px;
 }
 
 h2 {
@@ -771,7 +776,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #2F302F;
 }
 
 .tc-white {
