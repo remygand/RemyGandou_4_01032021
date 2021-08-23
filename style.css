@@ -702,7 +702,10 @@ p {
 .social {
     max-width: 400px;
     margin: auto;
-    color: #FAD5C3!important;
+}
+
+.social:hover{
+    color: white;
 }
 
 .social .fa {
@@ -784,12 +787,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: /*#F3976C;*/ #c27956;
+    background: #c27956;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #F3976C!important;
     color: #FFFFFF!important;
 }
 
