@@ -702,10 +702,11 @@ p {
 .social {
     max-width: 400px;
     margin: auto;
+    color: #ABACAB!important;
 }
 
 .social:hover{
-    color: white;
+    color: white!important;
 }
 
 .social .fa {
