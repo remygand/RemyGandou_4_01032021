@@ -705,8 +705,22 @@ p {
     color: #ABACAB!important;
 }
 
-.social:hover{
+.social:hover {
     color: white!important;
+}
+
+.modif-color {
+    color: white!important;
+}
+
+.quote {
+    font-size: 20px!important;
+    font-style: italic;
+}
+
+.author {
+    font-style: normal;
+    color: #333;
 }
 
 .social .fa {
@@ -788,7 +802,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #c27956;
+    background: #2F302F;
     color: #FFFFFF!important;
 }
 
